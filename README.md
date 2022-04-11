@@ -41,7 +41,7 @@ Options (all optional) include:
       Have regex work over multiple lines (e.g. have dot match newlines).  By
       default, codemod applies the regex one line at a time.
     -d
-      The path whose ancestor files are to be explored.  Defaults to current dir.
+      The path whose descendent files are to be explored.  Defaults to current dir.
     -i
       Make your search case-insensitive
     --start
